@@ -12,5 +12,7 @@
     printf("Hello World!\n");
     printf("Estefany Puc!\n");
     printf("Computer Engineeringgg\n");
+    printf("I'm Daniel Brozović\n");
+    printf("I haven't declared my major yet!\n");
     return 0;
  }
